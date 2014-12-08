@@ -5,11 +5,12 @@
 </head>
 <body>
 	<form id="account-form">
-		<label>Acocunt Number: </label><input name="account_number" type="text"/>
+		<label>Acocunt Number: </label><input name="account_number"
+		type="text"/>
 		<input type="submit"/>
 	</form>
-{% if balance %}
-Balance: {{ balance }}
-{% endif %}
+	{% if balance %}
+	Balance: {{ balance }}
+	{% endif %}
 </body>
 </html>
