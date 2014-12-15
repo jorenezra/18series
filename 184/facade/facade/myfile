@@ -4,11 +4,11 @@ p1
 cdatetime
 datetime
 p2
-(S'\x07\xde\x0c\x08\r!\x03\x0b\x86q'
+(S"\x07\xde\x0c\x0f\x0b\x04'\x0e\xcb'"
 p3
 tp4
 Rp5
 sS'obj'
 p6
-F25.380000000000052
+F26.631666666666717
 s.

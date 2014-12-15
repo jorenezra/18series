@@ -4,7 +4,7 @@ from nose.tools import assert_equal
 import os
 import urllib2
 
-from facade.temp import *
+from facade.facade import *
 
 @step(u'Given I am connected to the internet')
 def given_i_am_connected_to_the_internet(step):
